@@ -2,3 +2,4 @@ streamlit
 opencv-python
 numpy
 Pillow
+python -m streamlit run app2.py
